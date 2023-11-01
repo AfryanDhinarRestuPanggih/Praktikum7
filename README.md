@@ -1,6 +1,6 @@
 # Pertemuan - 7
 
-Nama : Afryan Dhinar Restu Panngih
+Nama : Afryan Dhinar Restu Panngih -
 Kelas : TI.23.A5
 
 ## Tugas Struktur Kondisi
