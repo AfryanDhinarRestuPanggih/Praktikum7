@@ -1,4 +1,8 @@
 # Pertemuan - 7
+
+Nama : Afryan Dhinar Restu Panngih
+Kelas : TI.23.A5
+
 ## Tugas Struktur Kondisi
 ## Latihan 1
 Buat program sederhada dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan statement if.
